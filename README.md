@@ -88,8 +88,8 @@ gitbook install
   {% endfold %}
   ``` 
 
-  ![](./images/001.png)
-  ![](./images/002.png)
+  ![image 1](./images/001.png)
+  ![image 2](./images/002.png)
 
 2. Set param
 
@@ -115,8 +115,8 @@ gitbook install
   {% endfold %}
   ```
 
-  ![](./images/003.png)
-  ![](./images/004.png)
+  ![image 3](./images/003.png)
+  ![image 4](./images/004.png)
 
 ## Demo
 

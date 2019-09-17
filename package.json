@@ -11,6 +11,14 @@
     "collapsible",
     "toggle"
   ],
+  "files": [
+    "assets",
+    "images",
+    "index.js",
+    "LICENSE",
+    "README.md",
+    "package.json"
+  ],
   "author": "zzzze. <zhangzs000@hotmail.com>",
   "license": "Apache-2.0",
   "repository": {
