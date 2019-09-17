@@ -47,7 +47,7 @@ gitbook install
 ```
 {% fold <parmas> %}
 <content>
-{% endfold%}
+{% endfold %}
 ```
 
 `<content>` is anything that you want it to be folded,it can be Markdown or HTML.
@@ -86,7 +86,7 @@ gitbook install
 
   > Tread softly because you tread on my dreams.
   {% endfold %}
-  ``` 
+  ```
 
   ![image 1](./images/001.png)
   ![image 2](./images/002.png)
