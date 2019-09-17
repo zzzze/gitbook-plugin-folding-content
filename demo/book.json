@@ -1,0 +1,12 @@
+{
+  "author": "zzzze",
+  "description": "Demo",
+  "extension": null,
+  "generator": "site",
+  "output": null,
+  "plugins": [
+    "folding-content@../"
+  ],
+  "title": "Demo",
+  "pluginsConfig": {}
+}

@@ -1,0 +1,29 @@
+{
+  "name": "gitbook-plugin-folding-content",
+  "version": "1.0.0",
+  "description": "Create a folding content in your GitBook.",
+  "main": "index.js",
+  "keywords": [
+    "gitbook",
+    "plugin",
+    "content",
+    "folding",
+    "collapsible",
+    "toggle"
+  ],
+  "author": "zzzze. <zhangzs000@hotmail.com>",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zzzze/gitbook-plugin-folding-content.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zzzze/gitbook-plugin-folding-content/issues"
+  },
+  "dependencies": {
+    "gitbook-markdown": "^2.0.1"
+  },
+  "engines": {
+    "gitbook": ">1.x.x"
+  }
+}
