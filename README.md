@@ -116,7 +116,6 @@ gitbook install
   ```
 
   ![image 3](./images/003.png)
-  ![image 4](./images/004.png)
 
 ## Demo
 
